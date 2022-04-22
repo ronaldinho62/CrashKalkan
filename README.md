@@ -1,7 +1,7 @@
 ## Crash Kalkan
 Crash Kalkan sayesinde sizin oyununa katılan insanları engelleyebilir onları sizden ve arkadaşlarınızdan uzak tutabilirsiniz.
 
-![Crash Kalkan](https://i.hizliresim.com/g6jrchh.png)
+![Crash Kalkan](https://i.hizliresim.com/1jsrxg1.png)
 
 ## 😋 Programı yükleme ve kurma
 
