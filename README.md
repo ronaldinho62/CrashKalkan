@@ -9,7 +9,7 @@ Bu program, Gta Online'da son zamanlarda oyun zevkini bozan toxic hileciler içi
 Programı yönetici olarak çalıştırmanız gerekmekte. Eğer Windows Defender tarafından mavi ekranlı bir uyarı çıkar ise "Ek bilgi" yazısına tıklayıp "Yine de çalıştır" seçeneğine tıklamalısınız.
 
 ## 🔒 Sunucu kilitlemek için neler yapmak gerekiyor?
-Sunucuyu kitlemek için sadece:
+Sunucuyu kilitlemek için sadece:
 
 [1] Windows Defender'ı açık tutun.<br>
 [2] Programı yönetici olarak başlatın.<br>
