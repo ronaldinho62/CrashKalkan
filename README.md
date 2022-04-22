@@ -16,7 +16,7 @@ Sunucuyu kilitlemek için sadece:
 [3] Herkesin CrashKalkan kullanması ve sunucuyu kitleme özelliğini aktifleştirmesi gerekiyor. (Tek oynayacaksanız sadece sizin aktifleştirmeniz yeterli olacaktır.)
 
 ## ❓ Programın özelliklerini nasıl kullanacağım?
-Her özelliğin yanında bir tuş resmi var o tuşa klavyenizden basarak veya program üzerinden tuş resmine tıklayarak özelliği aktifleştirebilir veya kapatabilirsiniz.
+Her özelliğin yanında bir tuş var o tuşa klavyenizden basarak ya da program üzerinden farenizle tuşa tıklayarak özelliği aktifleştirebilir veya kapatabilirsiniz.
 
 ## 🚫 GTA Online üzerinden yasaklanma riski var mı?
 Program, sunucu kilitleme özelliğini kullandığınızda sadece Windows güvenlik duvarına başka oyuncuların girmemesi için bir kural oluşturur. Dolayısıyla oyuna herhangi bir müdahalede bulunmadığından ötürü bir sorun teşkil etmez.
