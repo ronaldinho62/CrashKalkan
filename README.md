@@ -1,32 +1,28 @@
 ## Crash Kalkan
-Crash Kalkan sayesinde sizin oyununa katılan insanları engelleyebilir onları sizden ve arkadaşlarınızdan uzak tutabilirsiniz.
+Bu program, Gta Online'da son zamanlarda oyun zevkini bozan toxic hileciler için geliştirilmiştir. Crash Kalkan programı sayesinde sunucunuza katılan hilecileri ya da diğer insanları engelleyebilir ve oyunu tek başınıza ya da arkadaşlarınızla rahatça oynayabilirsiniz.
 
 ![Crash Kalkan](https://i.hizliresim.com/1jsrxg1.png)
 
 ## 😋 Programı yükleme ve kurma
 
-[GitHub üzerinden inidirmek için tıkla](https://github.com/enesonlys/CrashKalkan/releases/download/%C4%B0ndir/CrashKalkan.exe) <br>
-ilgili link üzerinden yükleme tamamlandığında tek yapamnız gerkeen programı başlatmaktır. Eğer Windows Defender tarafından mavi bir uyarı çıkar ise "Daha fazla" yazsına tıklayıp "Yine de çalıştır" seçeneğine tıklamalısınız. Ve sunucu kitleme özelliğnii kullanmak için programa sağ tıklayıp "Yönetici olarak çalıştır" seçeneği ile programı başlatmalısınız.
+[GitHub üzerinden indirmek için tıkla](https://github.com/ronaldinho62/CrashKalkan/releases/download/crashkalkan/CrashKalkan.exe) <br>
+Programı yönetici olarak çalıştırmanız gerekmekte. Eğer Windows Defender tarafından mavi ekranlı bir uyarı çıkar ise "Ek bilgi" yazısına tıklayıp "Yine de çalıştır" seçeneğine tıklamalısınız.
 
-## 🔒 Sunucu kitlemek için neler yapmam gerekiyor?
+## 🔒 Sunucu kilitlemek için neler yapmak gerekiyor?
 Sunucuyu kitlemek için sadece:
 
 [1] Windows Defender'ı açık tutun.<br>
 [2] Programı yönetici olarak başlatın.<br>
-[3] Herkesin CrashKalkan kullanması ve Sunucuyu Kitleme özelliğini aktifleştirmesi gerekiyor. (Tek oynayacaksanız sadece siz aktifleştirin)
+[3] Herkesin CrashKalkan kullanması ve sunucuyu kitleme özelliğini aktifleştirmesi gerekiyor. (Tek oynayacaksanız sadece sizin aktifleştirmeniz yeterli olacaktır.)
 
 ## 🧐 Programın özelliklerini nasıl kullanacağım?
-Her özelliğin yanında bir tuş resmi var o tuşa klavyenizden basarak veya tuş resmine program üzerinden tıklayarak özelliği aktifleştirebilir veya kapatabilirsiniz.
+Her özelliğin yanında bir tuş resmi var o tuşa klavyenizden basarak veya program üzerinden tuş resmine tıklayarak özelliği aktifleştirebilir veya kapatabilirsiniz.
 
 ## 🚫 GTA Online üzerinden yasaklanma riski var mı?
-Hayır ihtimali bile yok, çalışırken sadece Windows güvenlik duvarınıza bazı ayarlar yapar, yani ilgili oyunlara müdahale etmez. Dolayısı ile hesabınızın banlanmasına neden olmaz.
+Program, sunucu kilitleme özelliğini kullandığınızda sadece Windows güvenlik duvarına başka oyuncuların girmemesi için bir kural oluşturur. Dolayısıyla oyuna herhangi bir müdahalede bulunmadığından ötürü bir sorun teşkil etmez.
 
 ## 💻 Programın içinde zararlı yazılım var mı?
-Hayır, program açık kaynak kodlu ve GitHub üzerinden yayınlandığı için kötü amaçlı yazılım bulunmasını olası değildir. İstediğiniz gibi kodlarını inceleyebilir veya düzenleyebilirsiniz.
+Hayır, program açık kaynak kodlu ve GitHub üzerinden yayınlandığı için kötü amaçlı yazılım bulunmuyor. Kendiniz ya da yazılım bilgisi olan bir tanıdığınız varsa kodlarını inceletebilirsiniz ve dilediğiniz gibi düzenleyebilirsiniz.
 
 ## 🚀 Hilelerden korunmanın başka bir yolu var mı?
-Hayır maalesef yok, çünkü çoğu hile sizin sadece oyun kullanıcı adınızdan RockstarID'lerinizi alıp istedikleri zaman katılabiliyorlar (Solo Session dahil) ve RockstarGames bununla ilgili yıllardır bir yöntem çıkarmadı fakat geliştirici ekibimiz bunun methodunu buldu ve sizlere kolaylaştırılmış bir şekilde sunuyoruz. Bu methodu bu porgram olmadan elle de yapabilirsiniz fakat bu çok zahmetli ve zor bu yüzden size kolaylaştırılmış bir çözüm olarak bu programı çıkarttık.
-
-## 🙋 Size nasıl ulaşabilirim?
-Bize Discord sunucumuzdan ulaşabilirsiniz.
-https://gtaotr.xyz
+Bu programın yaptığı sunucu kilitleme olayını isterseniz kendi güvenlik duvarınızdan manuel olarak da yapabilmeniz mümkün. Bu program sadece bu olayı tek bir tuşa indirerek kolaylık getirmesi amacıyla tasarlanmıştır. Ben manuel olarak yaparım diyorsanız şu(https://leo3418.github.io/collections/gta-online-guides/firewall-rule-on-pc) linkteki rehberi okuyarak yapabilirsiniz.
