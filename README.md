@@ -19,8 +19,7 @@ Sunucuyu kilitlemek için sadece:
 Her özelliğin yanında bir tuş var o tuşa klavyenizden basarak ya da program üzerinden farenizle tuşa tıklayarak özelliği aktifleştirebilir veya kapatabilirsiniz.
 
 ## 🚫 GTA Online üzerinden yasaklanma riski var mı?
-Program, sunucu kilitleme özelliğini kullandığınızda sadece Windows güvenlik duvarına başka oyuncuların girmemesi için bir kural oluşturur. Dolayısıyla oyuna herhangi bir müdahalede bulunmadığından ötürü bir sorun teşkil etmez.
-
+Programdaki hiçbir seçenek oyuna müdahalede bulunmaz, tüm işlemler bilgisayarınızda gerçekleştirilir dolayısıyla ban gibi bir durumla karşılaşmanız mümkün değildir. 
 ## 🪲 Programın içinde zararlı yazılım var mı?
 Hayır, program açık kaynak kodlu ve GitHub üzerinden yayınlandığı için kötü amaçlı yazılım bulunmuyor. Kendiniz ya da yazılım bilgisi olan bir tanıdığınız varsa kodlarını inceletebilir ve dilediğiniz gibi düzenleyebilirsiniz.
 
