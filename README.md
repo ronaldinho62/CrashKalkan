@@ -1,3 +1,7 @@
+!!!ÖNEMLİ GÜNCELLEME!!! - 02.03.23
+Rockstar Games'in son zamanlarda oyuna eklediği yeni veri protokolü sistemi nedeniyle artık güvenlik duvarı üzerinden oluşturulan port engelleme kuralları GTA Online'a giriş yapılmasını ve hatta düzgünce oynayabilmeyi engelliyor. Dolayısıyla programın "Scroll Lock" tuşuyla kullandığımız sunucu kilitleme olayı artık işe yaramaz durumda. Dilerseniz diğer özellikleri kullanmaya devam edebilirsiniz.
+
+
 ## Crash Kalkan
 Bu program, Gta Online'da son zamanlarda oyun zevkini bozan toxic hileciler için geliştirilmiştir. Crash Kalkan programı sayesinde sunucunuza katılan hilecileri ya da diğer insanları engelleyebilir ve oyunu tek başınıza ya da arkadaşlarınızla rahatça oynayabilirsiniz.
 
