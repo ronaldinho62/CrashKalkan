@@ -1,4 +1,4 @@
-!!!ÖNEMLİ GÜNCELLEME!!! - 02.03.23
+##!!!ÖNEMLİ GÜNCELLEME!!! - 02.03.23
 Rockstar Games'in son zamanlarda oyuna eklediği yeni veri protokolü sistemi nedeniyle artık güvenlik duvarı üzerinden oluşturulan port engelleme kuralları GTA Online'a giriş yapılmasını ve hatta düzgünce oynayabilmeyi engelliyor. Dolayısıyla programın "Scroll Lock" tuşuyla kullandığımız sunucu kilitleme olayı artık işe yaramaz durumda. Dilerseniz diğer özellikleri kullanmaya devam edebilirsiniz.
 
 
